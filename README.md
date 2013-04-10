@@ -1,0 +1,4 @@
+geral
+=====
+
+Coisas gerais...
